@@ -15,7 +15,7 @@ export const EXPERIENCES = [
     role: "Strong Junior Frontend Developer",
     company: "Opora Solutions",
     description: `Development of a platform for business conferences, using Vue JS, creation of an interface and CRUD operations functionality.
-                    Development of a dental website. Development of a music application using React Native for downloading and listening to music, with full authorization and registration with JWT token.`,
+                    Development of a dental website using PHP and React. Development of a music application using React Native for downloading and listening to music, with full authorization and registration with JWT token.`,
     technologies: ["React", "React Native", "TypeScript", "Node js", "JWT", "React i18n", "Tailwind"]
   }
 ];
