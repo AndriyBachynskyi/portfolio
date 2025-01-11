@@ -38,7 +38,7 @@ const Hero = () => {
                             animate={{opacity: 1, x: 0}}
                             initial={{opacity: 0, x: 100}}
                             transition={{duration: 0.5, delay: 0.1}}
-                            href="https://drive.google.com/file/d/1CN4OXZ1Hz5fznWizmHNehPXj1-XtCYHw/view?usp=drive_link"
+                            href="https://drive.google.com/file/d/15dKM-teVHZjQj6xIhJoUGMLfk2eFqZ7y/view?usp=sharing"
                             target='_blank'
                             className='hover:border-neutral-300 hover:transition hover:duration-300 lg:px-10 lg:py-3 px-6 py-2 flex flex-col items-center border border-neutral-400 rounded-md'
                         >
